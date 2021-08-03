@@ -1,0 +1,19 @@
+{
+  "version": 2,
+  "dgSpecHash": "RgAl3CzFQzF6r9SZ+Y72/Iswk7TXtZgyfFw0n0PJ8YdCrrrkbtThoABNiwDTnXnp7MKhXkvBpMIAz6r045A/ng==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\TCNO\\source\\repos\\Ark-Player-Migrator\\Ark Player Migrator\\Ark Player Migrator.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\TCNO\\.nuget\\packages\\log4net\\2.0.12\\log4net.2.0.12.nupkg.sha512",
+    "C:\\Users\\TCNO\\.nuget\\packages\\microsoft.netcore.platforms\\2.0.0\\microsoft.netcore.platforms.2.0.0.nupkg.sha512",
+    "C:\\Users\\TCNO\\.nuget\\packages\\microsoft.win32.systemevents\\6.0.0-preview.6.21352.12\\microsoft.win32.systemevents.6.0.0-preview.6.21352.12.nupkg.sha512",
+    "C:\\Users\\TCNO\\.nuget\\packages\\system.configuration.configurationmanager\\4.5.0\\system.configuration.configurationmanager.4.5.0.nupkg.sha512",
+    "C:\\Users\\TCNO\\.nuget\\packages\\system.drawing.common\\6.0.0-preview.6.21352.12\\system.drawing.common.6.0.0-preview.6.21352.12.nupkg.sha512",
+    "C:\\Users\\TCNO\\.nuget\\packages\\system.resources.extensions\\6.0.0-preview.6.21352.12\\system.resources.extensions.6.0.0-preview.6.21352.12.nupkg.sha512",
+    "C:\\Users\\TCNO\\.nuget\\packages\\system.security.accesscontrol\\4.5.0\\system.security.accesscontrol.4.5.0.nupkg.sha512",
+    "C:\\Users\\TCNO\\.nuget\\packages\\system.security.cryptography.protecteddata\\4.5.0\\system.security.cryptography.protecteddata.4.5.0.nupkg.sha512",
+    "C:\\Users\\TCNO\\.nuget\\packages\\system.security.permissions\\4.5.0\\system.security.permissions.4.5.0.nupkg.sha512",
+    "C:\\Users\\TCNO\\.nuget\\packages\\system.security.principal.windows\\4.5.0\\system.security.principal.windows.4.5.0.nupkg.sha512"
+  ],
+  "logs": []
+}
